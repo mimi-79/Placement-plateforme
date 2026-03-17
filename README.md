@@ -9,6 +9,6 @@ L'application propose une interface simple pour :
 * Automatiser la construction de l'image grâce à un pipeline **CI/CD** (GitHub Actions).
 
 ## Pour lancer le projet sur votre machine :
-1. `docker build -t docker build -t app-demandes-img .
+1. `docker build -t docker build -t app-demandes-img `.
 2. `docker run -p 5000:5000 app-demandes-img`
 Accédez ensuite à `http://localhost:5000`
